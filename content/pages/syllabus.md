@@ -34,25 +34,189 @@ Only a few papers will be required reading for the whole class. This will leave 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Implicatures**{{< /td-colspan >}} ||
-| 1-2 | What is pragmatics? |
-| 3-4 | Embedded implicatures |
-| 5 | More on implicatures |
-| 6 | Implicatures and contradictions |
-| 7 | Back to disjunction |
-| 8 | Implicatures and common knowledge |
-| {{< td-colspan 2 >}}**Questions and exhaustivity**{{< /td-colspan >}} ||
-| 9 | Questions and pragmatics |
-| 10 | More on questions and exhaustivity |
-| 11 | Gajewski on demand |
-| 12 | Too many alternatives: Density, symmetry, and other predicaments |
-| 13 | Kratzer on "exclusive questions" part 1 |
-| 14 | Kratzer part 2 |
-| {{< td-colspan 2 >}}**Presupposition**{{< /td-colspan >}} ||
-| 15 | Notes on presupposition |
-| 16 | Presupposition (cont.) |
-| 17 | Schlenker |
-| 18 | Florian Schwarz: "Processing presupposed content" and beyond |
-| 19 | Proviso problem
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Implicatures**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+What is pragmatics?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Embedded implicatures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+More on implicatures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Implicatures and contradictions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Back to disjunction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Implicatures and common knowledge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Questions and exhaustivity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Questions and pragmatics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+More on questions and exhaustivity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Gajewski on demand
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Too many alternatives: Density, symmetry, and other predicaments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Kratzer on "exclusive questions" part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Kratzer part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Presupposition**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Notes on presupposition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Presupposition (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Schlenker
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Florian Schwarz: "Processing presupposed content" and beyond
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Proviso problem
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
